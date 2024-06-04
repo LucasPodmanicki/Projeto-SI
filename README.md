@@ -25,6 +25,47 @@ incluindo a realização de compras e a visualização de extratos de vendas. O 
    - [x] C#
    - [x] Shell Script
 
+## Modelo dos Casos de Uso
+Ator Principal:
+- Usuário.
+
+Casos de Uso:
+
+1. Realizar Compra
+- Descrição: O usuário procura por um produto, visualiza seus detalhes, adiciona ao carrinho de compras, escolhe a quantidade e realiza o pagamento.
+- Fluxo Principal:
+  - O usuário busca por um produto.
+  - O sistema exibe os detalhes do produto.
+  - O usuário adiciona o produto ao carrinho.
+  - O usuário escolhe a quantidade desejada.
+  - O usuário realiza o pagamento.
+
+- Extensões:
+  - Erro de pagamento.
+  - Produto não disponível.
+ 
+2. Visualizar Extrato de Venda
+- Descrição: O proprietário da loja visualiza a lista de pedidos com produtos, quantidades, clientes e datas de compra.
+- Fluxo Principal:
+  - O proprietário acessa o sistema.
+  - O sistema exibe o extrato de vendas.
+
+- Extensões:
+  - Nenhum pedido realizado ainda.
+
+## Modelo de Domínio
+- Produto
+- Carrinho de Compras
+- Pedido
+- Usuário
+- Proprietário da Loja
+
+## Diagramas de Sequência
+Para os fluxos principais dos casos de uso "Realizar Compra" e "Visualizar Extrato de Venda", serão criados diagramas de sequência que representam a interação entre as diferentes camadas da arquitetura (boundary, control e entity).
+
+
+
+
 ## Autores
 | <img src="https://avatars.githubusercontent.com/u/104178669?v=4" alt="Lucas" width="150"/> | <img src="https://avatars.githubusercontent.com/u/57364626?v=4" alt="Gabriel" width="150"/> | <img src="https://avatars.githubusercontent.com/u/102989290?v=4" alt="João" width="150"/> | <img src="https://avatars.githubusercontent.com/u/64386249?v=4" alt="Leonardo" width="150"/> |
 |:-------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
