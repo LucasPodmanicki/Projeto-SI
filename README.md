@@ -31,7 +31,7 @@ Ator Principal:
 
 Casos de Uso:
 
-1. Realizar Compra
+**1. Realizar Compra**
 - Descrição: O usuário procura por um produto, visualiza seus detalhes, adiciona ao carrinho de compras, escolhe a quantidade e realiza o pagamento.
 - Fluxo Principal:
   - O usuário busca por um produto.
@@ -44,7 +44,7 @@ Casos de Uso:
   - Erro de pagamento.
   - Produto não disponível.
  
-2. Visualizar Extrato de Venda
+**2. Visualizar Extrato de Venda**
 - Descrição: O proprietário da loja visualiza a lista de pedidos com produtos, quantidades, clientes e datas de compra.
 - Fluxo Principal:
   - O proprietário acessa o sistema.
@@ -52,6 +52,20 @@ Casos de Uso:
 
 - Extensões:
   - Nenhum pedido realizado ainda.
+ 
+**3. Gerenciar Pagamentos**
+- Descrição: Este caso de uso permite que o administrador da loja gerencie as transações de pagamento realizadas através do sistema.
+- Fluxo Principal:
+  - Verificar transações realizadas.
+  - Realizar reembolsos, se necessário.
+  - Visualizar relatórios de pagamentos.
+
+- Extensões:
+  - Nenhum pagamento realizado ainda.
+
+ ![image](https://github.com/LucasPodmanicki/Projeto-SI/assets/104178669/244968c9-62ef-44c9-baec-139aceeca55e)
+
+  
 
 ## Modelo de Domínio
 - Produto
@@ -69,6 +83,21 @@ Diagrama de Sequência para Realizar Compra:
 
 Diagrama de Sequência para Visualizar Extrato de Venda:
 ![image](https://github.com/LucasPodmanicki/Projeto-SI/assets/104178669/d1c78f4f-96ef-40bc-a3c6-e0c39d040b10)
+
+
+## Como Executar
+
+   Siga estas etapas para executar este projeto:
+
+1. **Clonar o Repositório**
+
+   Para clonar o reposítorio utilizando o comando ` git clone https://github.com/akajhon/BV-Simulation/`
+   
+2. **Instalar o Java**
+
+   Primeiro, você precisa ter o Java instalado em sua máquina. Se ainda não o instalou, você pode baixar o Docker [aqui](https://www.oracle.com/br/java/technologies/downloads/) 
+
+
 
 ## Conclusão
 O desenvolvimento deste sistema de vendas online proporcionou uma abordagem estruturada e modularizada para atender às necessidades dos usuários e proprietários de lojas. A análise detalhada dos requisitos, a modelagem dos casos de uso e a implementação de diagramas de sequência garantiram uma compreensão dos fluxos de interação do sistema. A validação por meio de cenários de teste assegurou a integridade e precisão das transações. Esta solução oferece uma experiência de compra e vendas eficiente.
