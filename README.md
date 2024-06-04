@@ -16,9 +16,9 @@ incluindo a realização de compras e a visualização de extratos de vendas. O 
 <p>A arquitetura do sistema é baseada em camadas (boundary, control e entity) e segue os princípios de sistemas distribuídos para garantir que múltiplos usuários possam realizar compras e consultas simultaneamente. A implementação utiliza uma arquitetura Cliente/Servidor e pode ser escalada para uma arquitetura distribuída usando MPI.</p>
 
 ## Requisitos
-  - [x] 1000 clientes comprando aleatoriamente 1 produto de um total de 10 produtos disponíveis, com 100 itens de cada produto em estoque
   - [x] 2 clientes comprando aleatoriamente de 2 a 4 produtos dos 5 produtos existentes,sendo que existem apenas 1 item de cada produto disponível para venda;
   - [x] 10 clientes comprando aleatoriamente de 2 a 4 produtos dos 10 produtos existentes,sendo que existem 5 itens de cada produto disponível para venda;
+  - [x] 1000 clientes comprando aleatoriamente 1 produto de um total de 10 produtos disponíveis, com 100 itens de cada produto em estoque
 
  ## Tecnologias Utilizadas
    - [x] Python
