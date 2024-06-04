@@ -95,7 +95,19 @@ Diagrama de Sequência para Visualizar Extrato de Venda:
    
 2. **Instalar o Java**
 
-   Primeiro, você precisa ter o Java instalado em sua máquina. Se ainda não o instalou, você pode baixar o Docker [aqui](https://www.oracle.com/br/java/technologies/downloads/) 
+   Primeiro, você precisa ter o Java instalado em sua máquina. Se ainda não o instalou, você pode baixar o Java [aqui](https://www.oracle.com/br/java/technologies/downloads/)
+
+3. **Instalar o Python**
+
+   Em seguida, você precisa ter o Python instalado em sua máquina. Se ainda não o instalou, você pode baixar o Python [aqui](https://www.python.org/downloads/)
+
+3. **Rodar os Arquivos**
+
+   Após as instalações, rode os arquivos, primeiro execute o arquivo .bat do Servidor, em sequencia, execute o .bat do Cliente
+
+4. **Funcionamento**
+
+   Se todos os passos foram seguidos corretamente, seu codigo esta pronto para uso! Faça bom proveito :)
 
 
 
