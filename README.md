@@ -91,7 +91,7 @@ Diagrama de Sequência para Visualizar Extrato de Venda:
 
 1. **Clonar o Repositório**
 
-   Para clonar o reposítorio utilizando o comando ` git clone https://github.com/akajhon/BV-Simulation/`
+   Para clonar o reposítorio utilizando o comando ` git clone https://github.com/LucasPodmanicki/Projeto-SI.git`
    
 2. **Instalar o Java**
 
