@@ -22,7 +22,7 @@ incluindo a realização de compras e a visualização de extratos de vendas. O 
 
  ## Tecnologias Utilizadas
    - [x] Python
-   - [x] C#
+   - [x] Java
    - [x] Shell Script
 
 ## Modelo dos Casos de Uso
