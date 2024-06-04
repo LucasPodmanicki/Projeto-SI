@@ -63,8 +63,15 @@ Casos de Uso:
 ## Diagramas de Sequência
 Para os fluxos principais dos casos de uso "Realizar Compra" e "Visualizar Extrato de Venda", serão criados diagramas de sequência que representam a interação entre as diferentes camadas da arquitetura (boundary, control e entity).
 
+Diagrama de Sequência para Realizar Compra:
+![image](https://github.com/LucasPodmanicki/Projeto-SI/assets/104178669/8650f520-7877-4088-8547-ced907874ab7)
 
 
+Diagrama de Sequência para Visualizar Extrato de Venda:
+![image](https://github.com/LucasPodmanicki/Projeto-SI/assets/104178669/d1c78f4f-96ef-40bc-a3c6-e0c39d040b10)
+
+## Conclusão
+O desenvolvimento deste sistema de vendas online proporcionou uma abordagem estruturada e modularizada para atender às necessidades dos usuários e proprietários de lojas. A análise detalhada dos requisitos, a modelagem dos casos de uso e a implementação de diagramas de sequência garantiram uma compreensão dos fluxos de interação do sistema. A validação por meio de cenários de teste assegurou a integridade e precisão das transações. Esta solução oferece uma experiência de compra e vendas eficiente.
 
 ## Autores
 | <img src="https://avatars.githubusercontent.com/u/104178669?v=4" alt="Lucas" width="150"/> | <img src="https://avatars.githubusercontent.com/u/57364626?v=4" alt="Gabriel" width="150"/> | <img src="https://avatars.githubusercontent.com/u/102989290?v=4" alt="João" width="150"/> | <img src="https://avatars.githubusercontent.com/u/64386249?v=4" alt="Leonardo" width="150"/> |
