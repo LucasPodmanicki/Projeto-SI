@@ -107,7 +107,7 @@ Diagrama de Sequência para Visualizar Extrato de Venda:
 
 4. **Funcionamento**
 
-   Se todos os passos foram seguidos corretamente, seu codigo esta pronto para uso! Faça bom proveito :)
+   Se todos os passos foram seguidos corretamente, seu código está pronto para uso! Faça bom proveito :)
 
 
 
