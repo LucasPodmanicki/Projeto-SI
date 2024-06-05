@@ -72,7 +72,9 @@ Casos de Uso:
 - Carrinho de Compras
 - Pedido
 - Usuário
-- Proprietário da Loja
+
+![image](https://github.com/LucasPodmanicki/Projeto-SI/assets/104178669/19db7a42-0617-4e74-b889-5b491714c1c6)
+
 
 ## Diagramas de Sequência
 Para os fluxos principais dos casos de uso "Realizar Compra" e "Visualizar Extrato de Venda", serão criados diagramas de sequência que representam a interação entre as diferentes camadas da arquitetura (boundary, control e entity).
