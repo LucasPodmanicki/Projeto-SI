@@ -110,10 +110,10 @@ Diagrama de Sequência para Visualizar Extrato de Venda:
    Se todos os passos foram seguidos corretamente, seu código está pronto para uso! Faça bom proveito :)
 
 ## Vídeo executando o código (Servidor - computador 1)
-https://youtu.be/BZEi0q3XaTg
+[https://youtu.be/BZEi0q3XaTg](https://www.youtube.com/watch?v=BZEi0q3XaTg)
 
 ## Vídeo executando o código (Cliente - computador 2)
-https://www.youtube.com/watch?v=gzwTPAw_nP4
+[https://www.youtube.com/watch?v=gzwTPAw_nP4](https://www.youtube.com/watch?v=gzwTPAw_nP4)
 
 ## Conclusão
 O desenvolvimento deste sistema de vendas online proporcionou uma abordagem estruturada e modularizada para atender às necessidades dos usuários e proprietários de lojas. A análise detalhada dos requisitos, a modelagem dos casos de uso e a implementação de diagramas de sequência garantiram uma compreensão dos fluxos de interação do sistema. A validação por meio de cenários de teste assegurou a integridade e precisão das transações. Esta solução oferece uma experiência de compra e vendas eficiente.
