@@ -79,12 +79,23 @@ Casos de Uso:
 ## Diagramas de Sequência
 Para os fluxos principais dos casos de uso "Realizar Compra" e "Visualizar Extrato de Venda", serão criados diagramas de sequência que representam a interação entre as diferentes camadas da arquitetura (boundary, control e entity).
 
-Diagrama de Sequência para Realizar Compra:
-![image](https://github.com/LucasPodmanicki/Projeto-SI/assets/104178669/8650f520-7877-4088-8547-ced907874ab7)
+**Diagrama de Sequência para "Realizar Compra**
+
+1. Boundary: Interface do Usuário
+2. Control: Controlador de Compra
+3. Entity: Entidades (Usuário, Produto, Pedido, Carrinho, Pagamento)
+
+![image](https://github.com/LucasPodmanicki/Projeto-SI/assets/104178669/5c4da212-ddd3-46fe-a2a8-8fd35a268651)
 
 
-Diagrama de Sequência para Visualizar Extrato de Venda:
-![image](https://github.com/LucasPodmanicki/Projeto-SI/assets/104178669/d1c78f4f-96ef-40bc-a3c6-e0c39d040b10)
+**Diagrama de Sequência para Visualizar Extrato de Venda**
+
+1. Boundary: Interface do Proprietário
+2. Control: Controlador de Venda
+3. Entity: Entidades (Pedido, Produto)
+
+![image](https://github.com/LucasPodmanicki/Projeto-SI/assets/104178669/9c445234-14d6-4527-94d9-b5bc33666651)
+
 
 
 ## Como Executar
@@ -101,15 +112,22 @@ Diagrama de Sequência para Visualizar Extrato de Venda:
 
 3. **Instalar o Python**
 
-   Em seguida, você precisa ter o Python instalado em sua máquina. Se ainda não o instalou, você pode baixar o Python [aqui](https://www.python.org/downloads/)
+   Certifique-se de instalar todas as bibliotecas necessárias para rodar os scripts em Python. Navegue até o diretório do projeto e execute o comando: `pip install -r requirements.txt`
 
-3. **Rodar os Arquivos**
+4. **Instalar Dependências do Python**
 
-   Após as instalações, rode os arquivos, primeiro execute o arquivo .bat do Servidor, em sequencia, execute o .bat do Cliente
+    Em seguida, você precisa ter o Python instalado em sua máquina. Se ainda não o instalou, você pode baixar o Python [aqui](https://www.python.org/downloads/)
 
-4. **Funcionamento**
+5. **Rodar os Arquivos**
+
+   Após as instalações, rode os arquivos, primeiro execute o arquivo .bat do Servidor, em sequencia, execute o .bat do Cliente (Certifique-se de que o servidor está em execução antes de iniciar o cliente.)
+
+6. **Funcionamento**
 
    Se todos os passos foram seguidos corretamente, seu código está pronto para uso! Faça bom proveito :)
+
+
+   
 
 ## Vídeo executando o código (Servidor - computador 1)
 [https://youtu.be/BZEi0q3XaTg](https://www.youtube.com/watch?v=BZEi0q3XaTg)
