@@ -112,7 +112,7 @@ Diagrama de Sequência para Visualizar Extrato de Venda:
 ## Vídeo executando o código (Servidor - computador 1)
 https://youtu.be/BZEi0q3XaTg
 
-##Vídeo executando o código (Cliente - computador 2)
+## Vídeo executando o código (Cliente - computador 2)
 https://www.youtube.com/watch?v=gzwTPAw_nP4
 
 ## Conclusão
