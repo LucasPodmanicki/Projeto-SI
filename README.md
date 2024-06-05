@@ -112,17 +112,17 @@ Para os fluxos principais dos casos de uso "Realizar Compra" e "Visualizar Extra
 
 3. **Instalar o Python**
 
-   Certifique-se de instalar todas as bibliotecas necessárias para rodar os scripts em Python. Navegue até o diretório do projeto e execute o comando: `pip install -r requirements.txt`
+   Em seguida, você precisa ter o Python instalado em sua máquina. Se ainda não o instalou, você pode baixar o Python [aqui](https://www.python.org/downloads/)
 
-4. **Instalar Dependências do Python**
+5. **Instalar Dependências do Python**
 
-    Em seguida, você precisa ter o Python instalado em sua máquina. Se ainda não o instalou, você pode baixar o Python [aqui](https://www.python.org/downloads/)
+   Certifique-se de instalar todas as bibliotecas necessárias para rodar os scripts em Python.
 
-5. **Rodar os Arquivos**
+6. **Rodar os Arquivos**
 
    Após as instalações, rode os arquivos, primeiro execute o arquivo .bat do Servidor, em sequencia, execute o .bat do Cliente (Certifique-se de que o servidor está em execução antes de iniciar o cliente.)
 
-6. **Funcionamento**
+7. **Funcionamento**
 
    Se todos os passos foram seguidos corretamente, seu código está pronto para uso! Faça bom proveito :)
 
