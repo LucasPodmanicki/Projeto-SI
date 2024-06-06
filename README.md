@@ -1,6 +1,6 @@
 ## Sistema de Venda de Produtos Online 
 Este projeto é uma implementação de um sistema de venda de produtos online, semelhante a Amazon, Magalu e MercadoLivre. O sistema foi desenvolvido para atender aos requisitos de um modelo clássico de e-commerce, 
-incluindo a realização de compras e a visualização de extratos de vendas. O projeto foi desenvolvido como parte dos requisitos da disciplina de Engenharia de Software do curso de Ciência da Computação.
+incluindo a realização de compras e a visualização de extratos de vendas.
 
     
 ## Descrição
